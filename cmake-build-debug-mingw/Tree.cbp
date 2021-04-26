@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Tree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tree">
+				<Option output="D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 Tree"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tree/fast">
+				<Option output="D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 Tree/fast"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/Tree/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/AVLTree.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/AVLTree.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/BinaryLinkedList.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/BinaryLinkedList.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/BinarySearchTree.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/BinarySearchTree.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/ChildAndSibling.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/ChildAndSibling.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/HuffmanTree.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/HuffmanTree.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/NonRecursiveTraversal.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/NonRecursiveTraversal.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/Parent.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/Parent.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/ParentAndChild.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/ParentAndChild.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/RedBlackTree.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/RedBlackTree.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/SplayTree.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/SplayTree.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/SuffixTree.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/SuffixTree.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/ThreadBinaryTree.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/ThreadBinaryTree.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/main.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/Tree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
