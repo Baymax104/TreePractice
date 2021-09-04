@@ -14,4 +14,4 @@ add_executable(Tree main.c Parent.c Parent.h
         AVLTree.c AVLTree.h
         RedBlackTree.c RedBlackTree.h
         SplayTree.c SplayTree.h
-        HuffmanTree.c HuffmanTree.h)
+        )

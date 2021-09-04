@@ -98,12 +98,6 @@
 		<Unit filename="D:/Projects/Clion2020.3/Tree/ChildAndSibling.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/Projects/Clion2020.3/Tree/HuffmanTree.c">
-			<Option target="Tree"/>
-		</Unit>
-		<Unit filename="D:/Projects/Clion2020.3/Tree/HuffmanTree.h">
-			<Option target="Tree"/>
-		</Unit>
 		<Unit filename="D:/Projects/Clion2020.3/Tree/NonRecursiveTraversal.c">
 			<Option target="Tree"/>
 		</Unit>
